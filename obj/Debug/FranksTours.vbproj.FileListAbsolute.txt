@@ -1,0 +1,218 @@
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\csc.exe
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\vbc.exe
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\FranksTours.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\FranksTours.pdb
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\FranksTours.xml
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\obj\Debug\FranksTours.Resources.resources
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\obj\Debug\FranksTours.dll
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\obj\Debug\FranksTours.xml
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\obj\Debug\FranksTours.pdb
+C:\Users\Pete\OneDrive\Development\FranksTours\FranksTours\bin\FranksTours.dll.config
+E:\FranksTours\FranksTours\bin\roslyn\csc.exe
+E:\FranksTours\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FranksTours\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FranksTours\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FranksTours\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+E:\FranksTours\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+E:\FranksTours\FranksTours\bin\roslyn\vbc.exe
+E:\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe
+E:\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+E:\FranksTours\FranksTours\bin\FranksTours.dll.config
+E:\FranksTours\FranksTours\bin\FranksTours.dll
+E:\FranksTours\FranksTours\bin\FranksTours.pdb
+E:\FranksTours\FranksTours\bin\FranksTours.xml
+E:\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FranksTours\FranksTours\obj\Debug\FranksTours.vbprojResolveAssemblyReference.cache
+E:\FranksTours\FranksTours\obj\Debug\FranksTours.Resources.resources
+E:\FranksTours\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+E:\FranksTours\FranksTours\obj\Debug\FranksTours.dll
+E:\FranksTours\FranksTours\obj\Debug\FranksTours.xml
+E:\FranksTours\FranksTours\obj\Debug\FranksTours.pdb
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\csc.exe
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\vbc.exe
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\FranksTours.dll.config
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\FranksTours.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\FranksTours.pdb
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\FranksTours.xml
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pete\Google Drive\FranksTours\FranksTours\obj\Debug\FranksTours.vbprojResolveAssemblyReference.cache
+C:\Users\pete\Google Drive\FranksTours\FranksTours\obj\Debug\FranksTours.Resources.resources
+C:\Users\pete\Google Drive\FranksTours\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+C:\Users\pete\Google Drive\FranksTours\FranksTours\obj\Debug\FranksTours.dll
+C:\Users\pete\Google Drive\FranksTours\FranksTours\obj\Debug\FranksTours.xml
+C:\Users\pete\Google Drive\FranksTours\FranksTours\obj\Debug\FranksTours.pdb
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\csc.exe
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\vbc.exe
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\FranksTours.dll.config
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\FranksTours.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\FranksTours.pdb
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\FranksTours.xml
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\obj\Debug\FranksTours.vbprojResolveAssemblyReference.cache
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\obj\Debug\FranksTours.Resources.resources
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\obj\Debug\FranksTours.dll
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\obj\Debug\FranksTours.xml
+C:\Users\Pete\Google Drive\FranksTours (1)\FranksTours\obj\Debug\FranksTours.pdb
+Z:\FranksTours (1)\FranksTours\bin\roslyn\csc.exe
+Z:\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\FranksTours (1)\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+Z:\FranksTours (1)\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+Z:\FranksTours (1)\FranksTours\bin\roslyn\vbc.exe
+Z:\FranksTours (1)\FranksTours\bin\roslyn\VBCSCompiler.exe
+Z:\FranksTours (1)\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+Z:\FranksTours (1)\FranksTours\bin\FranksTours.dll.config
+Z:\FranksTours (1)\FranksTours\bin\FranksTours.dll
+Z:\FranksTours (1)\FranksTours\bin\FranksTours.pdb
+Z:\FranksTours (1)\FranksTours\bin\FranksTours.xml
+Z:\FranksTours (1)\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\FranksTours (1)\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\FranksTours (1)\FranksTours\obj\Debug\FranksTours.vbprojResolveAssemblyReference.cache
+Z:\FranksTours (1)\FranksTours\obj\Debug\FranksTours.Resources.resources
+Z:\FranksTours (1)\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+Z:\FranksTours (1)\FranksTours\obj\Debug\FranksTours.dll
+Z:\FranksTours (1)\FranksTours\obj\Debug\FranksTours.xml
+Z:\FranksTours (1)\FranksTours\obj\Debug\FranksTours.pdb
+D:\Development\FranksTours (1)\FranksTours\obj\Debug\FranksTours.vbprojResolveAssemblyReference.cache
+D:\Development\FranksTours (1)\FranksTours\obj\Debug\FranksTours.Resources.resources
+D:\Development\FranksTours (1)\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+D:\Development\FranksTours (1)\FranksTours\obj\Debug\FranksTours.dll
+D:\Development\FranksTours (1)\FranksTours\obj\Debug\FranksTours.xml
+D:\Development\FranksTours (1)\FranksTours\obj\Debug\FranksTours.pdb
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\csc.exe
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\vbc.exe
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\VBCSCompiler.exe
+D:\Development\FranksTours (1)\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+D:\Development\FranksTours (1)\FranksTours\bin\FranksTours.dll.config
+D:\Development\FranksTours (1)\FranksTours\bin\FranksTours.dll
+D:\Development\FranksTours (1)\FranksTours\bin\FranksTours.pdb
+D:\Development\FranksTours (1)\FranksTours\bin\FranksTours.xml
+D:\Development\FranksTours (1)\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Development\FranksTours (1)\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Development\FranksTours\FranksTours\bin\roslyn\csc.exe
+D:\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Development\FranksTours\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Development\FranksTours\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+D:\Development\FranksTours\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+D:\Development\FranksTours\FranksTours\bin\roslyn\vbc.exe
+D:\Development\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe
+D:\Development\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+D:\Development\FranksTours\FranksTours\bin\FranksTours.dll.config
+D:\Development\FranksTours\FranksTours\bin\FranksTours.dll
+D:\Development\FranksTours\FranksTours\bin\FranksTours.pdb
+D:\Development\FranksTours\FranksTours\bin\FranksTours.xml
+D:\Development\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Development\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Development\FranksTours\FranksTours\obj\Debug\FranksTours.vbprojResolveAssemblyReference.cache
+D:\Development\FranksTours\FranksTours\obj\Debug\FranksTours.Resources.resources
+D:\Development\FranksTours\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+D:\Development\FranksTours\FranksTours\obj\Debug\FranksTours.dll
+D:\Development\FranksTours\FranksTours\obj\Debug\FranksTours.xml
+D:\Development\FranksTours\FranksTours\obj\Debug\FranksTours.pdb
+Z:\FranksTours\FranksTours\bin\roslyn\csc.exe
+Z:\FranksTours\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\FranksTours\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\FranksTours\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\FranksTours\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+Z:\FranksTours\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+Z:\FranksTours\FranksTours\bin\roslyn\vbc.exe
+Z:\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe
+Z:\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+Z:\FranksTours\FranksTours\bin\FranksTours.dll.config
+Z:\FranksTours\FranksTours\bin\FranksTours.dll
+Z:\FranksTours\FranksTours\bin\FranksTours.pdb
+Z:\FranksTours\FranksTours\bin\FranksTours.xml
+Z:\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\FranksTours\FranksTours\obj\Debug\FranksTours.vbprojResolveAssemblyReference.cache
+Z:\FranksTours\FranksTours\obj\Debug\FranksTours.Resources.resources
+Z:\FranksTours\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+Z:\FranksTours\FranksTours\obj\Debug\FranksTours.dll
+Z:\FranksTours\FranksTours\obj\Debug\FranksTours.xml
+Z:\FranksTours\FranksTours\obj\Debug\FranksTours.pdb
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\csc.exe
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\vbc.exe
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe
+C:\Development Temp\FranksTours\FranksTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Development Temp\FranksTours\FranksTours\bin\FranksTours.dll.config
+C:\Development Temp\FranksTours\FranksTours\bin\FranksTours.dll
+C:\Development Temp\FranksTours\FranksTours\bin\FranksTours.pdb
+C:\Development Temp\FranksTours\FranksTours\bin\FranksTours.xml
+C:\Development Temp\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Development Temp\FranksTours\FranksTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Development Temp\FranksTours\FranksTours\obj\Debug\FranksTours.vbprojResolveAssemblyReference.cache
+C:\Development Temp\FranksTours\FranksTours\obj\Debug\FranksTours.Resources.resources
+C:\Development Temp\FranksTours\FranksTours\obj\Debug\FranksTours.vbproj.GenerateResource.Cache
+C:\Development Temp\FranksTours\FranksTours\obj\Debug\FranksTours.dll
+C:\Development Temp\FranksTours\FranksTours\obj\Debug\FranksTours.xml
+C:\Development Temp\FranksTours\FranksTours\obj\Debug\FranksTours.pdb
+C:\Users\pete\OneDrive\Development\FranksTours\FranksTours\obj\Debug\FranksTours.vbprojAssemblyReference.cache
+C:\Users\pete\OneDrive\Development\FranksTours\FranksTours\obj\Debug\FranksTours.vbproj.CoreCompileInputs.cache
+C:\Users\pete\OneDrive\Development\FranksTours\FranksTours\obj\Debug\FranksTours.vbproj.CopyComplete

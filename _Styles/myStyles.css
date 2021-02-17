@@ -1,0 +1,314 @@
+﻿body 
+{
+    background-color:burlywood;
+    color:darkblue;
+    font-size:1.0vw;
+    min-width:.5vw;
+}
+
+div
+{
+    background-color:white;
+}
+
+li 
+{
+    list-style-type: none;
+}
+
+p
+{
+    font-size:1.5em;
+    line-height:1.3em;
+    margin-left:.5em;
+    color:darkblue;
+}
+
+#videoDiv
+{
+    background:-webkit-linear-gradient(top, black, cornsilk);
+    background:-ms-linear-gradient(top, black, cornsilk);
+    background:-moz-linear-gradient(top, black, cornsilk);
+}
+
+#slideMenu ul li 
+{
+    display:inline;
+    color:red;
+    margin-left:.5em;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.width75 
+{
+    width:75%;
+}
+
+.width45 
+{
+    width:45%;
+}
+
+.mainMenu 
+{
+    font-size:1.5em;
+    color:red;
+}
+
+.mySpan 
+{
+    color:darkblue;
+}
+
+.pTitle
+{
+    font-size:2em;
+    font-weight:bold;
+}
+
+.myTours 
+{
+    cursor:pointer;
+    padding-left:2em;
+}
+
+.myTourSelection 
+{
+    width:50%;
+    margin:auto;
+    background-color:white;
+    margin-top:2em;
+}
+
+.myTourItem 
+{
+    background-color:white;
+    padding-left:4em;
+    font-size:1.5em;
+}
+
+#mainSection
+{
+    color:darkblue;
+    background-color:lightblue;
+}
+
+.myBody {
+    color: darkblue;
+    background-color:black;
+    padding-bottom:3em;
+}
+
+footer 
+{
+    padding-bottom:3em;
+    font-size:1.2em;
+    line-height:1.2em;
+}
+
+.pageWrapperDefault
+{
+    background-color:black;
+    width:970px;
+    margin:auto;
+    margin-top:1em;
+    padding-bottom:3em;
+}
+
+.pageWrapper
+{
+    background-color:lightblue;
+    width:80%;
+    margin:auto;
+    margin-top:1em;
+    color:black;
+    min-height:800px;
+    margin-bottom:3em;
+}
+
+.autoHeight 
+{
+    height:auto
+}
+
+.myHr
+{
+    background-color:darkblue;
+    border: medium solid darkblue;
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.yellowBack
+{
+    background-color:yellow;
+}
+
+.seaGreenBack
+{
+    background-color:seagreen;
+}
+
+.whiteBack 
+{
+    background-color:white;
+}
+
+.lightBlueBack 
+{
+    background-color:lightblue;
+}
+
+.whiteHr
+{
+    background-color: white; 
+    border: 2px solid white;
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.maroonHr
+{
+    background-color: maroon; 
+    border: 2px solid maroon;
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.smallHr
+{
+    width:50%;
+    background-color: darkblue; 
+    border: 2px solid darkblue;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.smallMaroonHr
+{
+    width:50%;
+    background-color: maroon; 
+    border: 2px solid maroon;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.smallWhiteHr
+{
+    width:50%;
+    background-color: white; 
+    border: 2px solid white;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.myH1, .myH2, .myH3
+{
+    color:darkblue;
+}
+
+.goldH1 
+{
+    color:gold;
+}
+
+#logo2
+{
+    height:175px;
+    width:175px;
+}
+
+#logo1
+{
+    height:175px;
+    width:200px;
+}
+
+.displayNone
+{
+    display:none;
+}
+
+.verP 
+{
+    font-size:2em;
+    font-weight:bold;
+    line-height:1.5em;
+    width:80%;
+    margin:auto;
+    color:darkblue;
+}
+
+.footP 
+{
+    font-size:1em;
+    font-weight:bold;
+    line-height:1.5em;
+    width:80%;
+    margin:auto;
+    color:darkblue;
+}
+
+.displayBlock
+{
+    display:block;
+}
+
+.isVisible
+{
+    visibility:visible;
+}
+
+.notVisible
+{
+    visibility:collapse;
+}
+
+.myBut 
+{
+    box-shadow:black 5px 5px 10px;
+    border-radius:5px;
+}
+
+.myImage
+{
+    margin:5px,5px,5px,5px;
+}
+
+nav ul li a
+{
+    display:inline;
+    cursor:pointer;
+    font-size:1.5em;
+    color:darkblue;
+}
+
+.colorRed 
+{
+    color:red;
+}
+
+.colorYellow 
+{
+    color:yellow;
+}
+
+.colorWhite
+{
+    color:white;
+}
+
+.colorMaroon 
+{
+    color:maroon;
+}
+
+.videoSelect 
+{
+    cursor:pointer;
+}
+

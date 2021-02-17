@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{6374D46E-B617-446F-8173-F344BF5A7019}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>FranksTours</RootNamespace>
+    <AssemblyName>FranksTours</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>FranksTours.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>FranksTours.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DailyTotals.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="IP_Addresses.aspx" />
+    <Content Include="_Images\Africa\Africa1.jpg" />
+    <Content Include="_Images\Africa\Africa10.jpg" />
+    <Content Include="_Images\Africa\Africa11.jpg" />
+    <Content Include="_Images\Africa\Africa12.jpg" />
+    <Content Include="_Images\Africa\Africa13.jpg" />
+    <Content Include="_Images\Africa\Africa14.jpg" />
+    <Content Include="_Images\Africa\Africa15.jpg" />
+    <Content Include="_Images\Africa\Africa2.jpg" />
+    <Content Include="_Images\Africa\Africa3.jpg" />
+    <Content Include="_Images\Africa\Africa4.jpg" />
+    <Content Include="_Images\Africa\Africa5.jpg" />
+    <Content Include="_Images\Africa\Africa6.jpg" />
+    <Content Include="_Images\Africa\Africa7.jpg" />
+    <Content Include="_Images\Africa\Africa8.jpg" />
+    <Content Include="_Images\Africa\Africa9.jpg" />
+    <Content Include="_Images\Africa\FrankandEdna.jpg" />
+    <Content Include="_Images\China\China1.jpg" />
+    <Content Include="_Images\China\China10.jpg" />
+    <Content Include="_Images\China\China11.jpg" />
+    <Content Include="_Images\China\China12.jpg" />
+    <Content Include="_Images\China\China13.jpg" />
+    <Content Include="_Images\China\China14.jpg" />
+    <Content Include="_Images\China\China15.jpg" />
+    <Content Include="_Images\China\China16.jpg" />
+    <Content Include="_Images\China\China17.jpg" />
+    <Content Include="_Images\China\China18.jpg" />
+    <Content Include="_Images\China\China19.jpg" />
+    <Content Include="_Images\China\China2.jpg" />
+    <Content Include="_Images\China\China20.jpg" />
+    <Content Include="_Images\China\China21.jpg" />
+    <Content Include="_Images\China\China22.jpg" />
+    <Content Include="_Images\China\China23.jpg" />
+    <Content Include="_Images\China\China24.jpg" />
+    <Content Include="_Images\China\China25.jpg" />
+    <Content Include="_Images\China\China26.jpg" />
+    <Content Include="_Images\China\China27.jpg" />
+    <Content Include="_Images\China\China3.jpg" />
+    <Content Include="_Images\China\China4.jpg" />
+    <Content Include="_Images\China\China5.jpg" />
+    <Content Include="_Images\China\China6.jpg" />
+    <Content Include="_Images\China\China7.jpg" />
+    <Content Include="_Images\China\China8.jpg" />
+    <Content Include="_Images\China\China9.jpg" />
+    <Content Include="_Images\HeaderPhoto.jpg" />
+    <Content Include="_Images\Iceland\IL1.jpg" />
+    <Content Include="_Images\Iceland\IL10.JPG" />
+    <Content Include="_Images\Iceland\IL11.jpg" />
+    <Content Include="_Images\Iceland\IL12.jpg" />
+    <Content Include="_Images\Iceland\IL13.jpg" />
+    <Content Include="_Images\Iceland\IL14.jpg" />
+    <Content Include="_Images\Iceland\IL15.jpg" />
+    <Content Include="_Images\Iceland\IL16.jpg" />
+    <Content Include="_Images\Iceland\IL17.jpg" />
+    <Content Include="_Images\Iceland\il18.jpg" />
+    <Content Include="_Images\Iceland\il19.jpg" />
+    <Content Include="_Images\Iceland\IL2.jpg" />
+    <Content Include="_Images\Iceland\IL3.jpg" />
+    <Content Include="_Images\Iceland\IL4.jpg" />
+    <Content Include="_Images\Iceland\il5.jpg" />
+    <Content Include="_Images\Iceland\IL6.jpg" />
+    <Content Include="_Images\Iceland\IL7.jpg" />
+    <Content Include="_Images\Iceland\IL8.jpg" />
+    <Content Include="_Images\Iceland\IL9.jpg" />
+    <Content Include="_Images\Iceland\IMG_8864.JPG" />
+    <Content Include="_Images\Iceland\IMG_9352.JPG" />
+    <Content Include="_Images\Machu Pichu\MP1.jpg" />
+    <Content Include="_Images\Machu Pichu\MP10.jpg" />
+    <Content Include="_Images\Machu Pichu\MP11.jpg" />
+    <Content Include="_Images\Machu Pichu\MP12.jpg" />
+    <Content Include="_Images\Machu Pichu\MP13.jpg" />
+    <Content Include="_Images\Machu Pichu\MP14.jpg" />
+    <Content Include="_Images\Machu Pichu\MP15.jpg" />
+    <Content Include="_Images\Machu Pichu\MP16.jpg" />
+    <Content Include="_Images\Machu Pichu\MP17.jpg" />
+    <Content Include="_Images\Machu Pichu\MP18.jpg" />
+    <Content Include="_Images\Machu Pichu\MP19.jpg" />
+    <Content Include="_Images\Machu Pichu\MP2.jpg" />
+    <Content Include="_Images\Machu Pichu\MP20.jpg" />
+    <Content Include="_Images\Machu Pichu\MP21.jpg" />
+    <Content Include="_Images\Machu Pichu\MP22.jpg" />
+    <Content Include="_Images\Machu Pichu\MP23.jpg" />
+    <Content Include="_Images\Machu Pichu\MP24.jpg" />
+    <Content Include="_Images\Machu Pichu\MP25.jpg" />
+    <Content Include="_Images\Machu Pichu\MP26.jpg" />
+    <Content Include="_Images\Machu Pichu\MP27.jpg" />
+    <Content Include="_Images\Machu Pichu\MP28.jpg" />
+    <Content Include="_Images\Machu Pichu\MP29.jpg" />
+    <Content Include="_Images\Machu Pichu\MP3.jpg" />
+    <Content Include="_Images\Machu Pichu\MP30.jpg" />
+    <Content Include="_Images\Machu Pichu\MP31.jpg" />
+    <Content Include="_Images\Machu Pichu\MP32.jpg" />
+    <Content Include="_Images\Machu Pichu\MP33.jpg" />
+    <Content Include="_Images\Machu Pichu\MP34.jpg" />
+    <Content Include="_Images\Machu Pichu\MP35.jpg" />
+    <Content Include="_Images\Machu Pichu\MP36.jpg" />
+    <Content Include="_Images\Machu Pichu\MP37.jpg" />
+    <Content Include="_Images\Machu Pichu\MP38.jpg" />
+    <Content Include="_Images\Machu Pichu\MP39.jpg" />
+    <Content Include="_Images\Machu Pichu\MP4.jpg" />
+    <Content Include="_Images\Machu Pichu\MP40.jpg" />
+    <Content Include="_Images\Machu Pichu\MP5.jpg" />
+    <Content Include="_Images\Machu Pichu\MP6.jpg" />
+    <Content Include="_Images\Machu Pichu\MP7.jpg" />
+    <Content Include="_Images\Machu Pichu\MP8.jpg" />
+    <Content Include="_Images\Machu Pichu\MP9.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa1.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa10.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa11.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa12.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa13.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa14.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa2.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa3.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa4.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa5.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa6.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa7.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa8.jpg" />
+    <Content Include="_Images\Montage\Africa\Africa9.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL1.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL9.JPG" />
+    <Content Include="_Images\Montage\Iceland\IL11.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL12.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL13.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL14.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL15.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL16.jpg" />
+    <Content Include="_Images\Montage\Iceland\il17.jpg" />
+    <Content Include="_Images\Montage\Iceland\il18.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL2.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL3.jpg" />
+    <Content Include="_Images\Montage\Iceland\il4.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL5.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL6.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL7.jpg" />
+    <Content Include="_Images\Montage\Iceland\IL8.jpg" />
+    <Content Include="_Images\Montage\Iceland\il10.JPG" />
+    <Content Include="_Images\Montage\Turkey\turk1.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk10.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk11.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk12.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk13.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk14.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk15.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk16.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk17.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk18.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk19.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk2.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk20.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk21.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk22.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk23.jpg" />
+    <Content Include="_Images\Montage\Turkey\Turk3.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk4.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk5.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk6.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk7.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk8.jpg" />
+    <Content Include="_Images\Montage\Turkey\turk9.jpg" />
+    <Content Include="_Images\PageDivider.jpg" />
+    <Content Include="_Images\Peru Flowers\PF1.jpg" />
+    <Content Include="_Images\Peru Flowers\PF10.jpg" />
+    <Content Include="_Images\Peru Flowers\PF11.jpg" />
+    <Content Include="_Images\Peru Flowers\PF12.jpg" />
+    <Content Include="_Images\Peru Flowers\PF13.jpg" />
+    <Content Include="_Images\Peru Flowers\PF14.jpg" />
+    <Content Include="_Images\Peru Flowers\PF15.jpg" />
+    <Content Include="_Images\Peru Flowers\PF16.jpg" />
+    <Content Include="_Images\Peru Flowers\PF17.jpg" />
+    <Content Include="_Images\Peru Flowers\PF18.jpg" />
+    <Content Include="_Images\Peru Flowers\PF19.jpg" />
+    <Content Include="_Images\Peru Flowers\PF2.jpg" />
+    <Content Include="_Images\Peru Flowers\PF20.jpg" />
+    <Content Include="_Images\Peru Flowers\PF21.jpg" />
+    <Content Include="_Images\Peru Flowers\PF22.jpg" />
+    <Content Include="_Images\Peru Flowers\PF3.jpg" />
+    <Content Include="_Images\Peru Flowers\PF4.jpg" />
+    <Content Include="_Images\Peru Flowers\PF5.jpg" />
+    <Content Include="_Images\Peru Flowers\PF6.jpg" />
+    <Content Include="_Images\Peru Flowers\PF7.jpg" />
+    <Content Include="_Images\Peru Flowers\PF8.jpg" />
+    <Content Include="_Images\Peru Flowers\PF9.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople1.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople10.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople11.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople12.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople13.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople14.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople15.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople16.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople17.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople18.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople19.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople2.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople20.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople21.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople22.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople23.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople24.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople25.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople26.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople27.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople28.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople29.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople3.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople30.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople31.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople32.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople33.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople4.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople5.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople6.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople7.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople8.jpg" />
+    <Content Include="_Images\Peru People\PeruPeople9.jpg" />
+    <Content Include="_Images\RiverCruise\River1.jpg" />
+    <Content Include="_Images\RiverCruise\River2.jpg" />
+    <Content Include="_Images\RiverCruise\River3.jpg" />
+    <Content Include="_Images\RiverCruise\River4.jpg" />
+    <Content Include="_Images\RiverCruise\River5.jpg" />
+    <Content Include="_Images\Turkey\Thanksgiving.jpg" />
+    <Content Include="_Images\Turkey\Turk1.JPG" />
+    <Content Include="_Images\Turkey\Turk10.JPG" />
+    <Content Include="_Images\Turkey\Turk11.JPG" />
+    <Content Include="_Images\Turkey\Turk12.JPG" />
+    <Content Include="_Images\Turkey\Turk13.JPG" />
+    <Content Include="_Images\Turkey\Turk14.jpg" />
+    <Content Include="_Images\Turkey\Turk15.JPG" />
+    <Content Include="_Images\Turkey\Turk16.JPG" />
+    <Content Include="_Images\Turkey\Turk17.JPG" />
+    <Content Include="_Images\Turkey\Turk18.jpg" />
+    <Content Include="_Images\Turkey\Turk19.JPG" />
+    <Content Include="_Images\Turkey\Turk2.JPG" />
+    <Content Include="_Images\Turkey\Turk20.JPG" />
+    <Content Include="_Images\Turkey\Turk21.jpg" />
+    <Content Include="_Images\Turkey\Turk22.JPG" />
+    <Content Include="_Images\Turkey\Turk24.JPG" />
+    <Content Include="_Images\Turkey\Turk25.jpg" />
+    <Content Include="_Images\Turkey\Turk3.jpg" />
+    <Content Include="_Images\Turkey\Turk4.jpg" />
+    <Content Include="_Images\Turkey\Turk5.JPG" />
+    <Content Include="_Images\Turkey\Turk6.JPG" />
+    <Content Include="_Images\Turkey\Turk7.jpg" />
+    <Content Include="_Images\Turkey\Turk8.JPG" />
+    <Content Include="_Images\Turkey\Turk9.JPG" />
+    <Content Include="_Images\Turkey\Turkey1.jpg" />
+    <Content Include="_Images\Turkey\Turkey10.jpg" />
+    <Content Include="_Images\Turkey\Turkey11.jpg" />
+    <Content Include="_Images\Turkey\Turkey12.jpg" />
+    <Content Include="_Images\Turkey\Turkey13.jpg" />
+    <Content Include="_Images\Turkey\Turkey14.jpg" />
+    <Content Include="_Images\Turkey\Turkey15.jpg" />
+    <Content Include="_Images\Turkey\Turkey16.jpg" />
+    <Content Include="_Images\Turkey\Turkey17.png" />
+    <Content Include="_Images\Turkey\Turkey18.jpg" />
+    <Content Include="_Images\Turkey\Turkey19.jpg" />
+    <Content Include="_Images\Turkey\Turkey2.JPG" />
+    <Content Include="_Images\Turkey\Turkey20.jpg" />
+    <Content Include="_Images\Turkey\Turkey21.jpg" />
+    <Content Include="_Images\Turkey\Turkey22.jpg" />
+    <Content Include="_Images\Turkey\Turkey23.jpg" />
+    <Content Include="_Images\Turkey\turkey24.jpg" />
+    <Content Include="_Images\Turkey\Turkey25.jpg" />
+    <Content Include="_Images\Turkey\Turkey26.jpg" />
+    <Content Include="_Images\Turkey\Turkey27.jpg" />
+    <Content Include="_Images\Turkey\Turkey28.jpg" />
+    <Content Include="_Images\Turkey\Turkey29.jpg" />
+    <Content Include="_Images\Turkey\Turkey3.jpg" />
+    <Content Include="_Images\Turkey\Turkey30.jpg" />
+    <Content Include="_Images\Turkey\Turkey31.jpg" />
+    <Content Include="_Images\Turkey\Turkey32.jpg" />
+    <Content Include="_Images\Turkey\Turkey33.jpg" />
+    <Content Include="_Images\Turkey\Turkey34.jpg" />
+    <Content Include="_Images\Turkey\Turkey35.jpg" />
+    <Content Include="_Images\Turkey\Turkey36.jpg" />
+    <Content Include="_Images\Turkey\Turkey37.jpg" />
+    <Content Include="_Images\Turkey\Turkey38.jpg" />
+    <Content Include="_Images\Turkey\Turkey39.jpg" />
+    <Content Include="_Images\Turkey\Turkey4.jpg" />
+    <Content Include="_Images\Turkey\Turkey40.jpg" />
+    <Content Include="_Images\Turkey\Turkey41.jpg" />
+    <Content Include="_Images\Turkey\Turkey42.jpg" />
+    <Content Include="_Images\Turkey\Turkey43.jpg" />
+    <Content Include="_Images\Turkey\Turkey44.jpg" />
+    <Content Include="_Images\Turkey\Turkey45.jpg" />
+    <Content Include="_Images\Turkey\Turkey46.jpg" />
+    <Content Include="_Images\Turkey\Turkey47.jpg" />
+    <Content Include="_Images\Turkey\Turkey48.jpg" />
+    <Content Include="_Images\Turkey\Turkey49.jpg" />
+    <Content Include="_Images\Turkey\Turkey5.jpg" />
+    <Content Include="_Images\Turkey\Turkey6.jpg" />
+    <Content Include="_Images\Turkey\Turkey7.jpg" />
+    <Content Include="_Images\Turkey\Turkey8.JPG" />
+    <Content Include="_Images\Turkey\Turkey9.JPG" />
+    <Content Include="_JavaScript\myScripts.js" />
+    <Content Include="_JavaScript\Video.js" />
+    <Content Include="_Services\aftacService.asmx" />
+    <Content Include="_Styles\BasicStyles.css" />
+    <Content Include="_Styles\myStyles.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DailyTotals.aspx.designer.vb">
+      <DependentUpon>DailyTotals.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DailyTotals.aspx.vb">
+      <DependentUpon>DailyTotals.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="IP_Addresses.aspx.designer.vb">
+      <DependentUpon>IP_Addresses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IP_Addresses.aspx.vb">
+      <DependentUpon>IP_Addresses.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="_Services\aftacService.asmx.vb">
+      <DependentUpon>aftacService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\PublishProfiles\Pete.pubxml" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="packages.config" />
+    <Content Include="web.config" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>21846</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:21846/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
